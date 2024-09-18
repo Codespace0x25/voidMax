@@ -1,4 +1,0 @@
-/home/olivia/.config/emacs/elpa/vterm-20240825.133/build/CMakeFiles/vterm-module.dir
-/home/olivia/.config/emacs/elpa/vterm-20240825.133/build/CMakeFiles/run.dir
-/home/olivia/.config/emacs/elpa/vterm-20240825.133/build/CMakeFiles/edit_cache.dir
-/home/olivia/.config/emacs/elpa/vterm-20240825.133/build/CMakeFiles/rebuild_cache.dir
